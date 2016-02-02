@@ -8,7 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Sebastian Kurscheid, PhD - Personal Homepage
+title : Sebastian Kurscheid, PhD
 tagline: Genomics, Epigenetics, Bioinformatics
 author :
   name : Sebastian Kurscheid
