@@ -15,4 +15,6 @@ R> Session.info()["nodename"]
 "your machine name"
 ~~~~
 
-(Found at (http://www.walkingrandomly.com/?p=5023))
+Found at [www.walkingrandomly.com].
+
+[www.walkingrandomly.com]http://www.walkingrandomly.com/?p=5023 "walkingrandomly"
