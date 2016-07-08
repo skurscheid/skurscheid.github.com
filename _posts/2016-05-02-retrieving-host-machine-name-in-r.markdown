@@ -10,7 +10,7 @@ date: '2016-05-02 12:53'
 A simple way to retrieve the local machine name in R:
 
 ~~~~
-R> Session.info()["nodename"]
+R> Sys.info()["nodename"]
           nodename
 "your machine name"
 ~~~~
