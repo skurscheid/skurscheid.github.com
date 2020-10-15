@@ -10,7 +10,7 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 
-Here's a sample "posts list".
+Recent posts, in chronological order
 
 <ul class="posts">
   {% for post in site.posts %}
