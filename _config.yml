@@ -9,14 +9,14 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Sebastian Kurscheid, PhD
-tagline: Genomics, Epigenetics, Bioinformatics
+tagline: Bioinformatics, Research Data, HPC
 author :
   name : Sebastian Kurscheid
-  email : sebastian.kurscheid[at]anu.edu.au
+  email : sebastian.kurscheid[at]unibas.ch
   github : skurscheid
   twitter : genomicsio
 
-timezone: Australia/Canberra
+timezone: Zurich
 
 # customized defaults:
 defaults:
